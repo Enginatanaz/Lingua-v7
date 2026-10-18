@@ -1,0 +1,6 @@
+{
+  "name": "LinguAAI V6.0 - İngilizce Öğrenme Platformu",
+  "description": "LinguAAI modern ders ekranı: 488 derslik müfredat, öğretmen anlatımı, interaktif alıştırmalar ve cümle kurucu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
